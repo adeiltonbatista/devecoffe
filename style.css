@@ -136,3 +136,28 @@ textarea {
         padding: 0 12px 32px;
     }
 }
+main h2 {
+    font-size: 50px;
+    margin-bottom: 12px;
+    font-weight: 100px;
+    font-family: georgia, 'Times New Roman', Times, serif; 
+    font-style: italic;
+    
+}
+footer p {
+    font-size: 20px;
+   color: #070707;
+    width: 100%;
+    font-family: georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    background-color: #bda076;
+    margin-top: 40px;
+    
+}
+main p {
+    font-size: 20px;
+    color: #070707;
+    width: 100%;
+    font-family: georgia, 'Times New Roman', Times, serif;
+}
